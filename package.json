@@ -1,0 +1,36 @@
+{
+  "name": "string-hashids",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "crc-32": "^1.2.0",
+    "hashids": "^2.2.8"
+  },
+  "description": "Like Hashids, this is a small JavaScript library to generate YouTube-like ids from strings.",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hashids",
+    "short-ids",
+    "strings",
+    "hashid",
+    "hashids",
+    "youtube",
+    "bitly",
+    "obfuscate",
+    "encode",
+    "encrypt"
+  ],
+  "author": "Anthony Mugendi <ngurumugz@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugendi/string-hashids.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mugendi/string-hashids/issues"
+  },
+  "homepage": "https://github.com/mugendi/string-hashids#readme"
+}
